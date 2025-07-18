@@ -42,7 +42,7 @@
 
 1. **Клонируйте репозиторий**
    ```bash
-   git clone https://github.com/YourUsername/RoyalWheels.git
+   git clone https://github.com/TemhaN/RoyalWheelsApp.git
    cd RoyalWheels
 
 2. **Установите зависимости**
